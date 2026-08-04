@@ -41,8 +41,6 @@
 
 ---
 
----
-
 <p align="center">
   <a href="https://linkedin.com/in/ud4uddav">LinkedIn</a> ·
   <a href="https://github.com/ud4uddav">GitHub</a>
