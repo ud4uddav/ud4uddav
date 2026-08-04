@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Uddhav</h1>
+<h1 align="center">Hi 👋, I'm Uddav</h1>
 <h3 align="center">Junior Full-Stack Developer (MERN) based in Jakobstad, Finland</h3>
 
 <p align="center">
