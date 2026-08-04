@@ -19,12 +19,11 @@
 
 ### 🛠️ Featured Projects
 
-| Project | Description |
-|---|---|
-| **[EventGo](https://github.com/ud4uddav/EventGo)** | Event management capstone built with React + Supabase |
-| **AI Image Generator** | MERN stack app integrating OpenAI's DALL·E 3, containerized with Docker |
-| **Expense Management System** | Full-stack app for tracking and managing expenses |
-| **Virtual Farmers Market** | International capstone project — full-stack marketplace application |
+Project	Description
+EventGo	Event management capstone built with React + Supabase
+AI Image Generator	MERN stack app integrating OpenAI's DALL·E 3, containerized with Docker
+Expense Management System	Full-stack app for tracking and managing expenses
+Virtual Farmers Market	International capstone project — full-stack marketplace application
 
 ---
 
