@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uddav</h1>
-<h3 align="center">Junior Full-Stack Developer (MERN) based in Jakobstad, Finland</h3>
+<h3 align="center">Junior Full-Stack Developer (MERN) based in Finland</h3>
 
 <p align="center">
   I recently graduated with an IT Engineering degree from Centria University of Applied Sciences (June 2026), and I'm now looking for a junior software developer role in Finland's tech scene.
@@ -12,8 +12,7 @@
 - 🔭 I build full-stack web apps with the **MERN stack** (MongoDB, Express, React, Node.js)
 - 🎓 My bachelor's thesis was a scalable, cloud-based full-stack e-commerce application — [read it here](https://urn.fi/URN:NBN:fi:amk-2026060220628)
 - 🌱 Currently deepening my JavaScript (closures, async patterns) and learning MySQL and TypeScript
-- 🇫🇮 Learning Finnish (currently around A1–A2 level) alongside my technical studies
-- 💬 Ask me about React, Node/Express APIs, or MongoDB
+- 🇫🇮 Learning Finnish alongside my technical studies
 - 📫 Open to junior developer opportunities — reach out on [LinkedIn](https://linkedin.com/in/ud4uddav)
 
 ---
