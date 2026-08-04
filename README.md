@@ -2,7 +2,7 @@
 <h3 align="center">Junior Full-Stack Developer (MERN) based in Finland</h3>
 
 <p align="center">
-  I recently graduated with an IT Engineering degree from Centria University of Applied Sciences (June 2026), and I'm now looking for a junior software developer role in Finland's tech scene.
+  I recently graduated with an IT Engineering degree from Centria University of Applied Sciences and I'm now looking for a junior software developer role in Finland's tech scene.
 </p>
 
 ---
