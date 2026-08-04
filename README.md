@@ -41,11 +41,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Uddhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ud4uddav&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ud4uddav&layout=compact)
-
 ---
 
 <p align="center">
