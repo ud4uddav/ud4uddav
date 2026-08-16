@@ -2,7 +2,7 @@
 <h3 align="center">IT graduate based in Finland</h3>
 
 <p align="center">
-  I recently graduated with an IT Engineering degree from Centria University of Applied Sciences and I'm now looking for a junior software developer role in Finland's tech scene.
+  I graduated with an IT Engineering degree from Centria University of Applied Sciences and I'm now looking for a junior software developer role in Finland's tech scene.
 </p>
 
 ---
