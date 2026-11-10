@@ -11,7 +11,7 @@
 
 - 🔭 I build full-stack web apps with the **MERN stack** (MongoDB, Express, React, Node.js)
 - 🎓 My bachelor's thesis was a scalable, cloud-based full-stack e-commerce application — [read it here](https://urn.fi/URN:NBN:fi:amk-2026060220628)
-- 🌱 Currently deepening my JavaScript (closures, async patterns) and learning TypeScript
+- 🌱 Currently deepening python for backend
 - 🇫🇮 Learning Finnish to cope up with Finnish Tech market
 - 📫 Open to junior developer opportunities — reach out on [LinkedIn](https://linkedin.com/in/ud4uddav)
 
